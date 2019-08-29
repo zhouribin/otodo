@@ -46,7 +46,6 @@
             }
 
             .title {
-                font-size: 84px;
                 background-image: url("https://otodo.cn/otodo.png");
             }
 
@@ -62,6 +61,10 @@
 
             .m-b-md {
                 margin-bottom: 30px;
+            }
+
+            .logo {
+                width: 200px;
             }
         </style>
     </head>
@@ -79,8 +82,8 @@
             @endif
 
             <div class="content">
-                <div class="title m-b-md">
-
+                <div class="title">
+                    <image class="logo" src="https://otodo.cn/otodo.png"></image>
                 </div>
 
                 <div class="links">
