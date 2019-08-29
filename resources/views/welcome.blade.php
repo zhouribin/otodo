@@ -47,6 +47,7 @@
 
             .title {
                 font-size: 84px;
+                background-image: url("https://otodo.cn/otodo.png");
             }
 
             .links > a {
@@ -79,16 +80,12 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://github.com/zhouribin">GitHub</a>
+                    <a href="https://wherelike.com">博客</a>
                 </div>
             </div>
         </div>
