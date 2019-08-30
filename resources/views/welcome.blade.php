@@ -85,6 +85,9 @@
                 <div class="title">
                     <image class="logo" src="https://otodo.cn/otodo.png"></image>
                 </div>
+                <div class="title">
+                     Remember Life Anytime.
+                </div>
 
                 <div class="links">
                     <a href="https://github.com/zhouribin">GitHub</a>
