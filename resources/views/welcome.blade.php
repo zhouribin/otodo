@@ -66,6 +66,10 @@
             .logo {
                 width: 200px;
             }
+
+            .slogan {
+                margin: 10px;
+            }
         </style>
     </head>
     <body>
@@ -85,7 +89,7 @@
                 <div class="title">
                     <image class="logo" src="https://otodo.cn/otodo.png"></image>
                 </div>
-                <div class="title">
+                <div class="slogan .m-b-md">
                      Remember Life Anytime.
                 </div>
 
