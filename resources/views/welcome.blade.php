@@ -90,7 +90,7 @@
                     <image class="logo" src="https://otodo.cn/otodo.png"></image>
                 </div>
                 <div class="slogan .m-b-md">
-                     Remember Life Anytime.
+                    Planning Dreams Anytime.
                 </div>
 
                 <div class="links">
